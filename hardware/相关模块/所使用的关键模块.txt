@@ -1,0 +1,9 @@
+主控系统板STM32H750VBT6 【淘宝】<https://e.tb.cn/h.h9ZpijjhLlQnO9Y?tk=fpGv4dZid4E>
+摄像头模块OV2640 【淘宝】<https://e.tb.cn/h.hQnG1QoUQ2CDAn5?tk=EpLg4dZiYWE>
+步进电机驱动模块DRV8825 【淘宝】<https://e.tb.cn/h.hQl1n0NjAsIuD6K?tk=qYrt4dZ8TUt>
+4.0寸SPI串口 TFT液晶屏电容触摸屏 【淘宝】<https://e.tb.cn/h.hQnuHVjiUumDyGg?tk=3Y5p4dZ86p1>
+2.0寸tft lcd显示屏 【淘宝】<https://e.tb.cn/h.h9ZrNzqqyMheQXh?tk=DVco4dZjxYR>
+【淘宝】<https://e.tb.cn/h.hQM6A3ldc3r51hT?tk=hNYk4dZCHKw>
+【淘宝】<https://e.tb.cn/h.hQMSksNuxpaBm98?tk=wjRF4dZyzYT>
+TTL转nRF24L01无线串口【淘宝】<https://e.tb.cn/h.hQlLpgA0ttnL6zy?tk=fhtl4d0aWBWhttps://e.tb.cn/h>.
+USB转nRF24L01无线串口模块 <https://e.tb.cn/h.h90UW1Q0fzz2jTr?tk=3Z1g4d0Z3F0>
